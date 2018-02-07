@@ -3,6 +3,7 @@ baseurl = "https://sinner_sinner_site.org/"
 languageCode = "en"
 title = "Your A Sinner"
 theme = "cactus"
+publishDir = "docs"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false

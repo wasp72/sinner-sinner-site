@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Your A Sinner</title>
+    <link>https://sinner_sinner_site.org/post/</link>
+    <description>Recent content in Posts on Your A Sinner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Feb 2018 00:53:55 -0500</lastBuildDate>
+    
+	<atom:link href="https://sinner_sinner_site.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://sinner_sinner_site.org/post/first-post/</link>
+      <pubDate>Wed, 07 Feb 2018 00:53:55 -0500</pubDate>
+      
+      <guid>https://sinner_sinner_site.org/post/first-post/</guid>
+      <description>You dirty facebook SINNER! Welcome SINNER!</description>
+    </item>
+    
+  </channel>
+</rss>
