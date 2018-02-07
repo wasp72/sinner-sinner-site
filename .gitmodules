@@ -1,0 +1,3 @@
+[submodule "themes/catus"]
+	path = themes/catus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
